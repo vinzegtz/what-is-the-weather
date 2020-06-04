@@ -1,0 +1,27 @@
+{
+  "name": "what_is_the_weather",
+  "version": "0.0.1",
+  "description": "App CLI to get the current weather in a city",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinzegtz/what-is-the-weather.git"
+  },
+  "keywords": [
+    "weather",
+    "geolocation"
+  ],
+  "author": "Vicente Gutiérrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinzegtz/what-is-the-weather/issues"
+  },
+  "homepage": "https://github.com/vinzegtz/what-is-the-weather#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "yargs": "^15.3.1"
+  }
+}
