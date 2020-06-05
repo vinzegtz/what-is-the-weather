@@ -6,6 +6,7 @@
 
     "openWeather": {
         "endPoint": "https://api.openweathermap.org/data/2.5/weather",
-        "apiKey": "your api key"
+        "apiKey": "your api key",
+        "units": "metric"
     }
 }
