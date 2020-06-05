@@ -1,0 +1,11 @@
+{
+    "openCage": {
+        "endPoint": "https://api.opencagedata.com/geocode/v1/json",
+        "apiKey": "your api key"
+    },
+
+    "openWeather": {
+        "endPoint": "https://api.openweathermap.org/data/2.5/weather",
+        "apiKey": "your api key"
+    }
+}
